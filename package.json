@@ -1,0 +1,28 @@
+{
+  "name": "pokemon-ash",
+  "version": "1.0.0",
+  "description": "Pokémon Ash - Catch them all",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test-performance": "TEST_PERFORMANCE=true node index.js",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^27.4.4"
+  },
+  "author": "José Carlos Batista <jc.bsfilho@gmail.com>",
+  "license": "Apache-2.0",
+  "keywords": [
+    "ash",
+    "pokemon"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jcbsfilho/pokemon-ash.git"
+  },
+  "homepage": "https://github.com/jcbsfilho/pokemon-ash.git#readme",
+  "bugs": {
+    "url": "https://github.com/jcbsfilho/pokemon-ash/issues"
+  }
+}
